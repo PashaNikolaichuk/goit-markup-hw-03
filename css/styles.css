@@ -259,6 +259,7 @@ button {
 
 .portfolio {
   padding: 120px 0 120px 0;
+  border-top: none;
 }
 
 .portfolio-title {
