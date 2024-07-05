@@ -259,7 +259,6 @@ button {
 
 .portfolio {
   padding: 120px 0 120px 0;
-  border-top: none;
 }
 
 .portfolio-title {
@@ -307,6 +306,7 @@ button {
 .portfolio-card-text {
   border: 1px solid #e7e9fc;
   padding: 32px 16px;
+  border-top: none;
 }
 
 /* footer */
